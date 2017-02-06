@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<jsp:include page="/jsp/common.jsp"></jsp:include>
 <h1>你无权访问该功能</h1>
 </body>
 </html>
