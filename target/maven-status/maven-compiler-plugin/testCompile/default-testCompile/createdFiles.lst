@@ -1,0 +1,4 @@
+org\leo\shiro\service\TestUserService.class
+org\leo\shiro\service\TestRoleService.class
+org\leo\shiro\service\TestResourceService.class
+org\leo\shiro\service\TestShiro.class
