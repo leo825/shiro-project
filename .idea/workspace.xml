@@ -2,186 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2b9a48b-a184-46f3-ac31-0b80a7ec414d" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\beans.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\ehcache.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\jetty-context.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\controller\HelloController.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\controller\LoginController.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\controller\ResourceController.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\controller\RoleController.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\controller\UserController.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\dao\IResourceDao.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\dao\IRoleDao.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\dao\IUserDao.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\dao\ResourceDao.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\dao\RoleDao.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\dao\UserDao.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\filter\MyAccessControlFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\filter\MyPathMathingFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\filter\ResourceCheckFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\kit\ShiroKit.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\model\Resource.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\model\Role.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\model\RoleResource.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\model\User.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\model\UserRole.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\permission\UrlPermission.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\permission\UrlPermissionResovler.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\realm\UserRealm.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\service\IResourceService.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\service\IRoleService.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\service\IUserService.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\service\ResourceService.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\service\RoleService.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\service\UserService.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\servlet\LoginServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\web\InitServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\shiro-beans.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\maven-archiver\pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project.war" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\META-INF\MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\beans.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\ehcache.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\jetty-context.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\controller\HelloController.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\controller\LoginController.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\controller\ResourceController.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\controller\RoleController.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\controller\UserController.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\dao\IResourceDao.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\dao\IRoleDao.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\dao\IUserDao.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\dao\ResourceDao.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\dao\RoleDao.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\dao\UserDao.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\filter\MyAccessControlFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\filter\MyPathMathingFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\filter\ResourceCheckFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\kit\ShiroKit.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\model\Resource.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\model\Role.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\model\RoleResource.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\model\User.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\model\UserRole.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\permission\UrlPermission.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\permission\UrlPermissionResovler.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\realm\UserRealm.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\service\IResourceService.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\service\IRoleService.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\service\IUserService.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\service\ResourceService.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\service\RoleService.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\service\UserService.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\servlet\LoginServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\web\InitServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\shiro-beans.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\login.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\res\add.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\res\inc.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\res\list.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\res\update.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\role\add.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\role\inc.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\role\list.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\role\res.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\role\update.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\user\add.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\user\inc.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\user\list.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\user\res.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\user\update.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\antlr-2.7.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\aspectjweaver-1.7.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\basic-hibernate-0.0.3-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\cglib-nodep-3.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\commons-beanutils-1.8.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\commons-fileupload-1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\commons-io-2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\commons-lang-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\dom4j-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\druid-1.0.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\ehcache-2.10.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\ehcache-core-2.5.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\hibernate-commons-annotations-4.0.4.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\hibernate-core-4.3.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\hibernate-ehcache-4.3.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\hibernate-entitymanager-4.3.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\hibernate-validator-4.3.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jackson-annotations-2.6.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jackson-core-2.6.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jackson-databind-2.6.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jandex-1.1.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\javassist-3.18.1-GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\javax-inject-1.0-201002241208.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\javax.inject-1.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jboss-logging-3.1.3.GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jboss-logging-annotations-1.2.0.Beta1.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jboss-transaction-api_1.2_spec-1.0.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jcl-over-slf4j-1.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jsr303-1.5-RC5.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jstl-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\log4j-1.2.16.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\logback-classic-1.0.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\logback-core-1.0.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\mysql-connector-java-5.1.30.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\pager-taglib-2.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\shiro-core-1.2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\shiro-ehcache-1.2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\shiro-spring-1.2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\shiro-web-1.2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\slf4j-api-1.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\slf4j-log4j12-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-aop-4.2.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-aspects-4.2.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-beans-4.2.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-context-4.2.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-context-support-4.2.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-core-4.2.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-expression-4.2.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-jdbc-4.2.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-orm-4.2.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-tx-4.2.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-web-4.2.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-webmvc-4.2.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\validation-api-1.0.0.GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\wicket-core-1.5-RC5.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\wicket-request-1.5-RC5.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\wicket-util-1.5-RC5.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\xml-apis-1.0.b2.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\shiro-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\web.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\jsp\common.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\resources\jquery-1.11.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\unauth.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/filter/MyPathMathingFilter.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/filter/MyPathMathingFilter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/Resource.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/Resource.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/Role.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/Role.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/RoleResource.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/RoleResource.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/kit/ShiroKit.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/kit/ShiroKit.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/User.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/User.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/realm/UserRealm.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/realm/UserRealm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/UserRole.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/UserRole.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/add.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/add.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/add.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/add.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/inc.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/inc.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/inc.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/inc.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/list.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/list.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/list.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/list.jsp" />
+<<<<<<< HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestRoleService.java" afterPath="$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestRoleService.java" />
+=======
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\.idea\artifacts\shiro_project_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\.idea\libraries\Maven__net_sf_ehcache_ehcache_core_2_4_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_8_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro\WEB-INF\jsp\login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro\WEB-INF\lib\commons-beanutils-1.8.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro\WEB-INF\lib\jcl-over-slf4j-1.7.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro\WEB-INF\lib\logback-classic-1.0.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro\WEB-INF\lib\logback-core-1.0.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro\WEB-INF\lib\shiro-core-1.2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro\WEB-INF\lib\shiro-web-1.2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro\WEB-INF\lib\slf4j-api-1.7.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro\index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro\unauth.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/res.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/res.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/update.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/update.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/update.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/update.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiro-project.iml" afterPath="$PROJECT_DIR$/shiro-project.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/shiro_project_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/shiro_project_war.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+>>>>>>> parent of 975fc1b... 同步本地文件
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="shiro-project.iws" />
@@ -254,11 +99,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestUserService.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestUserService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestUserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4575045" vertical-offset="1272" max-vertical-offset="2100">
-              <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1272" max-vertical-offset="2100">
+              <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2067#2068#0" expanded="true" />
@@ -282,11 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestRoleService.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestRoleService.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestRoleService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1016" max-vertical-offset="2025">
-              <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.38360655" vertical-offset="1091" max-vertical-offset="2025">
+              <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -307,8 +152,13 @@
       <file leaf-file-name="inc.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/inc.jsp">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="-4.4117646" vertical-offset="0" max-vertical-offset="300">
               <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+=======
+            <state vertical-scroll-proportion="0.19553073" vertical-offset="0" max-vertical-offset="1900">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+>>>>>>> parent of 975fc1b... 同步本地文件
               <folding />
             </state>
           </provider>
@@ -381,8 +231,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/org/konghao/shiro/service/TestResourceService.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestResourceService.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestRoleService.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestUserService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestRoleService.java" />
       </list>
     </option>
   </component>
@@ -636,7 +486,7 @@
       <recent name="E:\WorkSpace\Git\shiro-project\src\main\webapp" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.shiro-project [clean]">
+  <component name="RunManager" selected="JUnit.TestRoleService.testAddUserRole">
     <configuration default="false" name="shiro-project [jetty:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -675,32 +525,6 @@
             <option name="goals">
               <list>
                 <option value="clean" />
-              </list>
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="shiro-project [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="package" />
               </list>
             </option>
             <option name="profilesMap">
@@ -756,6 +580,34 @@
       <option name="PACKAGE_NAME" value="org.leo.shiro.service" />
       <option name="MAIN_CLASS_NAME" value="org.leo.shiro.service.TestRoleService" />
       <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestRoleService.testAddUserRole" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.leo.shiro.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="shiro-project" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.leo.shiro.service" />
+      <option name="MAIN_CLASS_NAME" value="org.leo.shiro.service.TestRoleService" />
+      <option name="METHOD_NAME" value="testAddUserRole" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1161,18 +1013,18 @@
       <item index="0" class="java.lang.String" itemvalue="JUnit.TestShiro.testBase (1)" />
       <item index="1" class="java.lang.String" itemvalue="Maven.shiro-project [jetty:run]" />
       <item index="2" class="java.lang.String" itemvalue="Maven.shiro-project [clean]" />
-      <item index="3" class="java.lang.String" itemvalue="Maven.shiro-project [package]" />
-      <item index="4" class="java.lang.String" itemvalue="Tomcat Server.Tomcat8" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.TestUserService.testAdd" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.TestRoleService.testAdd" />
+      <item index="3" class="java.lang.String" itemvalue="Tomcat Server.Tomcat8" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestUserService.testAdd" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.TestRoleService.testAdd" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.TestRoleService.testAddUserRole" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Maven.shiro-project [clean]" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestUserService.testAdd" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestRoleService.testAdd" />
-        <item index="3" class="java.lang.String" itemvalue="Maven.shiro-project [jetty:run]" />
-        <item index="4" class="java.lang.String" itemvalue="Maven.shiro-project [package]" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestRoleService.testAddUserRole" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestRoleService.testAdd" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestUserService.testAdd" />
+        <item index="3" class="java.lang.String" itemvalue="Maven.shiro-project [clean]" />
+        <item index="4" class="java.lang.String" itemvalue="Maven.shiro-project [jetty:run]" />
       </list>
     </recent_temporary>
   </component>
@@ -1197,7 +1049,11 @@
       <workItem from="1486368415447" duration="5607000" />
       <workItem from="1486389556788" duration="275000" />
       <workItem from="1486389855325" duration="2745000" />
-      <workItem from="1486429144257" duration="4043000" />
+<<<<<<< HEAD
+      <workItem from="1486429144257" duration="4654000" />
+=======
+      <workItem from="1486429144257" duration="837000" />
+>>>>>>> parent of 975fc1b... 同步本地文件
     </task>
     <task id="LOCAL-00001" summary="1.完成了基本的登录验证模块&#10;2.完成了基本的授权模块&#10;3.测试了shiro的密码加密模块在shiro-base中">
       <created>1486184376251</created>
@@ -1217,23 +1073,25 @@
       <option name="project" value="LOCAL" />
       <updated>1486368072215</updated>
     </task>
-    <task id="LOCAL-00004" summary="1.将缓存去掉并且将shrio和spring整合&#10;">
-      <created>1486430315417</created>
-      <option name="number" value="00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1486430315417</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77707000" />
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="78318000" />
+=======
+    <option name="totallyTimeSpent" value="74501000" />
+>>>>>>> parent of 975fc1b... 同步本地文件
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+=======
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+>>>>>>> parent of 975fc1b... 同步本地文件
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -1251,10 +1109,15 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3560606" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2943723" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21645021" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18976545" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18976545" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+>>>>>>> parent of 975fc1b... 同步本地文件
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1262,6 +1125,11 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+<<<<<<< HEAD
+=======
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2099567" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> parent of 975fc1b... 同步本地文件
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40151516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1287,8 +1155,7 @@
     <MESSAGE value="1.完成了基本的登录验证模块&#10;2.完成了基本的授权模块&#10;3.测试了shiro的密码加密模块在shiro-base中" />
     <MESSAGE value="1.初步搭建了shiro的项目shiro-project" />
     <MESSAGE value="1.添加jar文件&#10;" />
-    <MESSAGE value="1.将缓存去掉并且将shrio和spring整合&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.将缓存去掉并且将shrio和spring整合&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.添加jar文件&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1301,6 +1168,164 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/context/config/spring-context-3.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.4666667" vertical-offset="3791" max-vertical-offset="12425">
+          <caret line="157" column="4" selection-start-line="157" selection-start-column="4" selection-end-line="157" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-spring/1.2.4/shiro-spring-1.2.4-sources.jar!/org/apache/shiro/spring/web/ShiroFilterFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0454545" vertical-offset="2850" max-vertical-offset="12600">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.0" vertical-offset="2050" max-vertical-offset="2725">
+          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/shiro-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="700">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/jquery-1.11.3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19470406" vertical-offset="0" max-vertical-offset="642">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/common.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.147059" vertical-offset="0" max-vertical-offset="450">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="596">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="950">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="41150">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3225">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="596">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="625">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="596">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_13.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_13.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/shiro_project_war.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="325">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/shiro_project_war_exploded.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2075">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/dao/IResourceDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiro-project.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2400">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> parent of 975fc1b... 同步本地文件
     <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/dao/RoleDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2075">
@@ -1742,8 +1767,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0" vertical-offset="5872" max-vertical-offset="8000">
           <caret line="297" column="43" selection-start-line="297" selection-start-column="43" selection-end-line="297" selection-end-column="43" />
+=======
+        <state vertical-scroll-proportion="0.19553073" vertical-offset="0" max-vertical-offset="1900">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+>>>>>>> parent of 975fc1b... 同步本地文件
           <folding />
         </state>
       </provider>
@@ -1776,26 +1806,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestRoleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1016" max-vertical-offset="2025">
-          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestUserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4575045" vertical-offset="1272" max-vertical-offset="2100">
-          <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1272" max-vertical-offset="2100">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2067#2068#0" expanded="true" />
             <element signature="e#2128#2129#0" expanded="true" />
             <element signature="e#2171#2172#0" expanded="true" />
             <element signature="e#2237#2238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestRoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38360655" vertical-offset="1091" max-vertical-offset="2025">
+          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

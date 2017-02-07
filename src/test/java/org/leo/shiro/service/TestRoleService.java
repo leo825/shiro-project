@@ -43,16 +43,16 @@ public class TestRoleService {
 	@Test
 	public void testAdd() {
 		Role r = new Role();
-		r.setName("管理员");
-		r.setSn("ADMIN");
+		r.setName("普通员工");
+		r.setSn("EMP");
 		roleService.add(r);
 	}
 
 	@Test
 	public void testAddUserRole() {
-		roleService.addUserRole(1, 2);
-		roleService.addUserRole(2, 1);
-		roleService.addUserRole(3, 2);
+		roleService.addUserRole(1, 1);
+		roleService.addUserRole(2, 2);
+		roleService.addUserRole(2, 3);
 		roleService.addUserRole(3, 3);
 	}
 
