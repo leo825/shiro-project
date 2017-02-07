@@ -23,64 +23,63 @@ import java.util.Set;
 
 public class UserRealm extends AuthorizingRealm {
 
-	@Override
-	protected AuthorizationInfo doGetAuthorizationInfo(
-			PrincipalCollection principals) {
-		User user = ((User)principals.getPrimaryPrincipal());
-		int uid = user.getId();
-		System.out.println(user.getId()+","+user.getNickname());
-		IUserService userService = (IUserService)InitServlet.getBean("userService");
-		List<String> roles = userService.listRoleSnByUser(uid);
-		List<Resource> reses = userService.listAllResource(uid);
-		List<String> permissions = new ArrayList<String>();
-		for(Resource r:reses) {
-			permissions.add(r.getUrl());
-		}
-		SimpleAuthorizationInfo info = new SimpleAuthorizationInfo();
-		info.setRoles(new HashSet<String>(roles));
-		info.setStringPermissions(new HashSet<String>(permissions));
-		return info;
-	}
-	
-
-	@Override
-	protected AuthenticationInfo doGetAuthenticationInfo(
-			AuthenticationToken token) throws AuthenticationException {
-		IUserService userService = (IUserService)InitServlet.getBean("userService");
-		String username = token.getPrincipal().toString();
-		String password = new String((char[])token.getCredentials());
-		User user = userService.login(username, password);
-		SimpleAuthenticationInfo info = new SimpleAuthenticationInfo(user, user.getPassword(), this.getName());
-		info.setCredentialsSalt(ByteSource.Util.bytes(user.getUsername()));
-		return info;
-	}
+    @Override
+    protected AuthorizationInfo doGetAuthorizationInfo(
+            PrincipalCollection principals) {
+        User user = ((User) principals.getPrimaryPrincipal());
+        int uid = user.getId();
+        System.out.println(user.getId() + "," + user.getNickname());
+        IUserService userService = (IUserService) InitServlet.getBean("userService");
+        List<String> roles = userService.listRoleSnByUser(uid);
+        List<Resource> reses = userService.listAllResource(uid);
+        List<String> permissions = new ArrayList<String>();
+        for (Resource r : reses) {
+            permissions.add(r.getUrl());
+        }
+        SimpleAuthorizationInfo info = new SimpleAuthorizationInfo();
+        info.setRoles(new HashSet<String>(roles));
+        info.setStringPermissions(new HashSet<String>(permissions));
+        return info;
+    }
 
 
-	@Override
-	protected void clearCachedAuthorizationInfo(PrincipalCollection principals) {
-		//System.out.println("清除授权的缓存");
-		Cache c = this.getAuthorizationCache();
-		Set<Object> keys = c.keys();
-		for(Object o:keys) {
-			System.out.println("授权缓存:"+o+"-----"+c.get(o)+"----------");
-		}
-		
-		super.clearCachedAuthorizationInfo(principals);
-	}
+    @Override
+    protected AuthenticationInfo doGetAuthenticationInfo(
+            AuthenticationToken token) throws AuthenticationException {
+        IUserService userService = (IUserService) InitServlet.getBean("userService");
+        String username = token.getPrincipal().toString();
+        String password = new String((char[]) token.getCredentials());
+        User user = userService.login(username, password);
+        SimpleAuthenticationInfo info = new SimpleAuthenticationInfo(user, user.getPassword(), this.getName());
+        info.setCredentialsSalt(ByteSource.Util.bytes(user.getUsername()));
+        return info;
+    }
 
-	@Override
-	protected void clearCachedAuthenticationInfo(PrincipalCollection principals) {
-		//System.out.println("清除认证的缓存");
-		Cache c = this.getAuthenticationCache();
-		Set<Object> keys = c.keys();
-		for(Object o:keys) {
-			System.out.println("认证缓存:"+o+"----------"+c.get(o)+"----------");
-		}
-		User user = ((User)principals.getPrimaryPrincipal());
-		SimplePrincipalCollection spc = new SimplePrincipalCollection(user.getUsername(), getName());
-		super.clearCachedAuthenticationInfo(spc);
-	}
-	
-	
+
+    @Override
+    protected void clearCachedAuthorizationInfo(PrincipalCollection principals) {
+        //System.out.println("清除授权的缓存");
+        Cache c = this.getAuthorizationCache();
+        Set<Object> keys = c.keys();
+        for (Object o : keys) {
+            System.out.println("授权缓存:" + o + "-----" + c.get(o) + "----------");
+        }
+
+        super.clearCachedAuthorizationInfo(principals);
+    }
+
+    @Override
+    protected void clearCachedAuthenticationInfo(PrincipalCollection principals) {
+        //System.out.println("清除认证的缓存");
+        Cache c = this.getAuthenticationCache();
+        Set<Object> keys = c.keys();
+        for (Object o : keys) {
+            System.out.println("认证缓存:" + o + "----------" + c.get(o) + "----------");
+        }
+        User user = ((User) principals.getPrimaryPrincipal());
+        SimplePrincipalCollection spc = new SimplePrincipalCollection(user.getUsername(), getName());
+        super.clearCachedAuthenticationInfo(spc);
+    }
+
 
 }

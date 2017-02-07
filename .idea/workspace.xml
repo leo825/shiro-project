@@ -2,6 +2,186 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2b9a48b-a184-46f3-ac31-0b80a7ec414d" name="Default" comment="">
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\ehcache.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\jdbc.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\jetty-context.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\controller\HelloController.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\controller\LoginController.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\controller\ResourceController.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\controller\RoleController.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\controller\UserController.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\dao\IResourceDao.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\dao\IRoleDao.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\dao\IUserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\dao\ResourceDao.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\dao\RoleDao.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\dao\UserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\filter\MyAccessControlFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\filter\MyPathMathingFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\filter\ResourceCheckFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\kit\ShiroKit.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\model\Resource.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\model\Role.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\model\RoleResource.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\model\User.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\model\UserRole.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\permission\UrlPermission.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\permission\UrlPermissionResovler.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\realm\UserRealm.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\service\IResourceService.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\service\IRoleService.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\service\IUserService.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\service\ResourceService.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\service\RoleService.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\service\UserService.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\servlet\LoginServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\org\leo\shiro\web\InitServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\classes\shiro-beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project.war" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\META-INF\MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\ehcache.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\jdbc.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\jetty-context.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\controller\HelloController.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\controller\LoginController.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\controller\ResourceController.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\controller\RoleController.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\controller\UserController.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\dao\IResourceDao.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\dao\IRoleDao.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\dao\IUserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\dao\ResourceDao.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\dao\RoleDao.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\dao\UserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\filter\MyAccessControlFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\filter\MyPathMathingFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\filter\ResourceCheckFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\kit\ShiroKit.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\model\Resource.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\model\Role.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\model\RoleResource.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\model\User.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\model\UserRole.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\permission\UrlPermission.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\permission\UrlPermissionResovler.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\realm\UserRealm.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\service\IResourceService.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\service\IRoleService.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\service\IUserService.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\service\ResourceService.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\service\RoleService.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\service\UserService.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\servlet\LoginServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\org\leo\shiro\web\InitServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\classes\shiro-beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\res\add.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\res\inc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\res\list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\res\update.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\role\add.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\role\inc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\role\list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\role\res.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\role\update.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\user\add.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\user\inc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\user\list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\user\res.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\jsp\user\update.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\antlr-2.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\aspectjweaver-1.7.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\basic-hibernate-0.0.3-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\cglib-nodep-3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\commons-beanutils-1.8.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\commons-fileupload-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\commons-io-2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\commons-lang-2.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\commons-logging-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\dom4j-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\druid-1.0.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\ehcache-2.10.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\ehcache-core-2.5.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\hibernate-commons-annotations-4.0.4.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\hibernate-core-4.3.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\hibernate-ehcache-4.3.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\hibernate-entitymanager-4.3.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\hibernate-validator-4.3.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jackson-annotations-2.6.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jackson-core-2.6.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jackson-databind-2.6.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jandex-1.1.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\javassist-3.18.1-GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\javax-inject-1.0-201002241208.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\javax.inject-1.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jboss-logging-3.1.3.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jboss-logging-annotations-1.2.0.Beta1.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jboss-transaction-api_1.2_spec-1.0.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jcl-over-slf4j-1.7.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jsr303-1.5-RC5.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\log4j-1.2.16.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\logback-classic-1.0.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\logback-core-1.0.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\mysql-connector-java-5.1.30.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\pager-taglib-2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\shiro-core-1.2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\shiro-ehcache-1.2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\shiro-spring-1.2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\shiro-web-1.2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\slf4j-api-1.7.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\slf4j-log4j12-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-aop-4.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-aspects-4.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-beans-4.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-context-4.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-context-support-4.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-core-4.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-expression-4.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-jdbc-4.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-orm-4.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-tx-4.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-web-4.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\spring-webmvc-4.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\validation-api-1.0.0.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\wicket-core-1.5-RC5.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\wicket-request-1.5-RC5.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\wicket-util-1.5-RC5.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\lib\xml-apis-1.0.b2.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\shiro-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\jsp\common.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\resources\jquery-1.11.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\Git\shiro-project\target\shiro-project\unauth.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/filter/MyPathMathingFilter.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/filter/MyPathMathingFilter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/Resource.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/Resource.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/Role.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/Role.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/RoleResource.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/RoleResource.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/kit/ShiroKit.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/kit/ShiroKit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/User.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/realm/UserRealm.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/realm/UserRealm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/UserRole.java" afterPath="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/UserRole.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/add.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/add.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/add.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/add.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/inc.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/inc.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/inc.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/inc.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/list.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/list.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/list.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/list.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/res.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/res.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/update.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/update.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/update.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/update.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="shiro-project.iws" />
@@ -30,110 +210,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ResourceCheckFilter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/filter/ResourceCheckFilter.java">
+      <file leaf-file-name="MyPathMathingFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/filter/MyPathMathingFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="925">
-              <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Subject.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.4/shiro-core-1.2.4-sources.jar!/org/apache/shiro/subject/Subject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2330" max-vertical-offset="20775">
-              <caret line="120" column="19" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="625">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding>
-                <element signature="e#0#46475#0" expanded="false" />
-                <element signature="e#34359#34360#0" expanded="false" />
-                <element signature="e#34423#34424#0" expanded="false" />
-                <element signature="e#35738#35739#0" expanded="false" />
-                <element signature="e#35796#35797#0" expanded="false" />
-                <element signature="e#36185#36186#0" expanded="false" />
-                <element signature="e#36235#36236#0" expanded="false" />
-                <element signature="e#46378#46379#0" expanded="false" />
-                <element signature="e#46464#46465#0" expanded="false" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DelegatingSubject.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.4/shiro-core-1.2.4-sources.jar!/org/apache/shiro/subject/support/DelegatingSubject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2455" max-vertical-offset="11425">
-              <caret line="157" column="55" selection-start-line="157" selection-start-column="55" selection-end-line="157" selection-end-column="55" />
-              <folding>
-                <element signature="e#0#20346#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#4110#4111#0" expanded="false" />
-                <element signature="e#4172#4173#0" expanded="false" />
-                <element signature="e#5401#5402#0" expanded="false" />
-                <element signature="e#5439#5440#0" expanded="false" />
-                <element signature="e#5480#5481#0" expanded="false" />
-                <element signature="e#5544#5545#0" expanded="false" />
-                <element signature="e#5814#5815#0" expanded="false" />
-                <element signature="e#5846#5847#0" expanded="false" />
-                <element signature="e#6149#6150#0" expanded="false" />
-                <element signature="e#6208#6209#0" expanded="false" />
-                <element signature="e#12048#12049#0" expanded="false" />
-                <element signature="e#12084#12085#0" expanded="false" />
-                <element signature="e#12560#12561#0" expanded="false" />
-                <element signature="e#12610#12611#0" expanded="false" />
-                <element signature="e#12645#12646#0" expanded="false" />
-                <element signature="e#12684#12685#0" expanded="false" />
-                <element signature="e#15348#15349#0" expanded="false" />
-                <element signature="e#15383#15384#0" expanded="false" />
-                <element signature="e#15861#15862#0" expanded="false" />
-                <element signature="e#15922#15923#0" expanded="false" />
-                <element signature="e#18472#18473#0" expanded="false" />
-                <element signature="e#18508#18509#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Authorizer.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.4/shiro-core-1.2.4-sources.jar!/org/apache/shiro/authz/Authorizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="805" max-vertical-offset="6600">
-              <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#15065#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthorizingRealm.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.4/shiro-core-1.2.4-sources.jar!/org/apache/shiro/realm/AuthorizingRealm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="10380" max-vertical-offset="15600">
-              <caret line="466" column="22" selection-start-line="466" selection-start-column="22" selection-end-line="466" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/controller/HelloController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/controller/LoginController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="875">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -141,34 +225,101 @@
       <file leaf-file-name="ResourceController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/controller/ResourceController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="1250">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1250">
               <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RoleController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/controller/RoleController.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5586592" vertical-offset="0" max-vertical-offset="1900">
-              <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="5872" max-vertical-offset="8000">
+              <caret line="297" column="43" selection-start-line="297" selection-start-column="43" selection-end-line="297" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AuthorizingSecurityManager.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.4/shiro-core-1.2.4-sources.jar!/org/apache/shiro/mgt/AuthorizingSecurityManager.java">
+      <file leaf-file-name="TestShiro.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestShiro.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1930" max-vertical-offset="3850">
-              <caret line="112" column="37" selection-start-line="112" selection-start-column="37" selection-end-line="112" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1497" max-vertical-offset="2050">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding>
-                <element signature="e#0#7295#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#2895#2896#0" expanded="false" />
-                <element signature="e#2928#2929#0" expanded="false" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestUserService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestUserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4575045" vertical-offset="1272" max-vertical-offset="2100">
+              <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2067#2068#0" expanded="true" />
+                <element signature="e#2128#2129#0" expanded="true" />
+                <element signature="e#2171#2172#0" expanded="true" />
+                <element signature="e#2237#2238#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestResourceService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestResourceService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="137" max-vertical-offset="1650">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestRoleService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestRoleService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1016" max-vertical-offset="2025">
+              <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IRoleService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/service/IRoleService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="1200">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inc.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/inc.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.4117646" vertical-offset="0" max-vertical-offset="300">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyAccessControlFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/filter/MyAccessControlFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -181,9 +332,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/LoginServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/src/test/java/TestReam.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestShiro.java" />
         <option value="$PROJECT_DIR$/shiro-base/pom.xml" />
         <option value="$PROJECT_DIR$/shiro-base/src/main/java/com/leo/shiro/realm/MapRealm.java" />
@@ -197,11 +345,6 @@
         <option value="$PROJECT_DIR$/shiro-base/src/main/java/com/leo/shiro/realm/PasswordTestRealm.java" />
         <option value="$PROJECT_DIR$/shiro-base/src/main/resources/shiro.ini" />
         <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/web/InitServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/Resource.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/Role.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/RoleResource.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/UserRole.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/service/RoleService.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/controller/ResourceController.java" />
@@ -217,8 +360,29 @@
         <option value="$PROJECT_DIR$/src/main/resources/shiro-beans.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/controller/RoleController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/kit/ShiroKit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/Resource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/Role.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/RoleResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/model/UserRole.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/realm/UserRealm.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/add.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/inc.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/update.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/add.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/inc.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/res.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/update.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/org/leo/shiro/filter/MyPathMathingFilter.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/org/konghao/shiro/service/TestResourceService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestResourceService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestRoleService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestUserService.java" />
       </list>
     </option>
   </component>
@@ -401,229 +565,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="servlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -642,168 +592,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="realm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="permission" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="filter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shiro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -841,14 +629,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\Git\shiro-project\src" />
       <recent name="E:\WorkSpace\Git\shiro-project\src\main\webapp\WEB-INF\lib" />
       <recent name="E:\WorkSpace\Git\shiro-project\.idea\artifacts" />
       <recent name="E:\WorkSpace\Git\shiro-project\libs" />
       <recent name="E:\WorkSpace\Git\shiro-project\src\main\webapp" />
-      <recent name="E:\WorkSpace\Git\shiro-project\src\main\webapp\WEB-INF" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.shiro-project [jetty:run]">
+  <component name="RunManager" selected="Maven.shiro-project [clean]">
     <configuration default="false" name="shiro-project [jetty:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -901,32 +689,6 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="shiro-project [compile]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="compile" />
-              </list>
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="shiro-project [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -953,28 +715,58 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="shiro-project [test]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="test" />
-              </list>
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
+    <configuration default="false" name="TestUserService.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.leo.shiro.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="shiro-project" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.leo.shiro.service" />
+      <option name="MAIN_CLASS_NAME" value="org.leo.shiro.service.TestUserService" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestRoleService.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.leo.shiro.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="shiro-project" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.leo.shiro.service" />
+      <option name="MAIN_CLASS_NAME" value="org.leo.shiro.service.TestRoleService" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -1290,14 +1082,13 @@
       <method />
     </configuration>
     <configuration default="false" name="Tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.35" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:/Program Files/Java/jdk1.8.0_40/jre">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080//shiro-project/" />
       <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
         <artifact name="shiro-project:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/shiro-project" />
+            <option name="CONTEXT_PATH" value="/shiro" />
           </settings>
         </artifact>
       </deployment>
@@ -1368,20 +1159,20 @@
     </configuration>
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="JUnit.TestShiro.testBase (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Tomcat8" />
-      <item index="2" class="java.lang.String" itemvalue="Maven.shiro-project [jetty:run]" />
-      <item index="3" class="java.lang.String" itemvalue="Maven.shiro-project [clean]" />
-      <item index="4" class="java.lang.String" itemvalue="Maven.shiro-project [compile]" />
-      <item index="5" class="java.lang.String" itemvalue="Maven.shiro-project [package]" />
-      <item index="6" class="java.lang.String" itemvalue="Maven.shiro-project [test]" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.shiro-project [jetty:run]" />
+      <item index="2" class="java.lang.String" itemvalue="Maven.shiro-project [clean]" />
+      <item index="3" class="java.lang.String" itemvalue="Maven.shiro-project [package]" />
+      <item index="4" class="java.lang.String" itemvalue="Tomcat Server.Tomcat8" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.TestUserService.testAdd" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.TestRoleService.testAdd" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Maven.shiro-project [jetty:run]" />
-        <item index="1" class="java.lang.String" itemvalue="Maven.shiro-project [package]" />
-        <item index="2" class="java.lang.String" itemvalue="Maven.shiro-project [clean]" />
-        <item index="3" class="java.lang.String" itemvalue="Maven.shiro-project [test]" />
-        <item index="4" class="java.lang.String" itemvalue="Maven.shiro-project [compile]" />
+        <item index="0" class="java.lang.String" itemvalue="Maven.shiro-project [clean]" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestUserService.testAdd" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestRoleService.testAdd" />
+        <item index="3" class="java.lang.String" itemvalue="Maven.shiro-project [jetty:run]" />
+        <item index="4" class="java.lang.String" itemvalue="Maven.shiro-project [package]" />
       </list>
     </recent_temporary>
   </component>
@@ -1406,7 +1197,7 @@
       <workItem from="1486368415447" duration="5607000" />
       <workItem from="1486389556788" duration="275000" />
       <workItem from="1486389855325" duration="2745000" />
-      <workItem from="1486429144257" duration="1186000" />
+      <workItem from="1486429144257" duration="4043000" />
     </task>
     <task id="LOCAL-00001" summary="1.完成了基本的登录验证模块&#10;2.完成了基本的授权模块&#10;3.测试了shiro的密码加密模块在shiro-base中">
       <created>1486184376251</created>
@@ -1436,42 +1227,42 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74850000" />
+    <option name="totallyTimeSpent" value="77707000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17217484" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21645021" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18976545" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23294243" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2099567" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3560606" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21645021" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18976545" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2099567" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3560606" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40151516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1510,163 +1301,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/context/config/spring-context-3.0.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4666667" vertical-offset="3791" max-vertical-offset="12425">
-          <caret line="157" column="4" selection-start-line="157" selection-start-column="4" selection-end-line="157" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-spring/1.2.4/shiro-spring-1.2.4-sources.jar!/org/apache/shiro/spring/web/ShiroFilterFactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0454545" vertical-offset="2850" max-vertical-offset="12600">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/beans.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.0" vertical-offset="2050" max-vertical-offset="2725">
-          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/shiro-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="700">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/jquery-1.11.3.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19470406" vertical-offset="0" max-vertical-offset="642">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/common.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.147059" vertical-offset="0" max-vertical-offset="450">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="596">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="950">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="41150">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3225">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="596">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="625">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="596">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_13.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_13.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/artifacts/shiro_project_war.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="325">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/artifacts/shiro_project_war_exploded.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2075">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/dao/IResourceDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiro-project.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2400">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/dao/RoleDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2075">
@@ -1679,6 +1313,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="1075">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1686,6 +1323,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1693,6 +1331,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="675">
           <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1734,32 +1373,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/realm/UserRealm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1825">
-          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3988" max-vertical-offset="8000">
-          <caret line="295" column="27" selection-start-line="295" selection-start-column="27" selection-end-line="295" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/filter/MyAccessControlFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="675">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.4/shiro-web-1.2.4-sources.jar!/org/apache/shiro/web/filter/AccessControlFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.7522604" vertical-offset="741" max-vertical-offset="5175">
           <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1767,14 +1385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
           <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/filter/MyPathMathingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1791,8 +1401,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="322" max-vertical-offset="875">
           <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
           <folding>
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="false" />
+            <element signature="e#428#429#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1804,14 +1414,6 @@
           <folding>
             <element signature="e#0#5368#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/filter/ResourceCheckFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="925">
-          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1905,6 +1507,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/controller/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1900">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/controller/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
@@ -1921,6 +1531,207 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/filter/ResourceCheckFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="925">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/kit/ShiroKit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/model/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="1050">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/model/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="1150">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/model/RoleResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="875">
+          <caret line="45" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="250" max-vertical-offset="1200">
+          <caret line="65" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/model/UserRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="230" max-vertical-offset="1225">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/realm/UserRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="2275">
+          <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1430#1438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.029411" vertical-offset="302" max-vertical-offset="1150">
+          <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.441176" vertical-offset="0" max-vertical-offset="1150">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/update.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.705882" vertical-offset="0" max-vertical-offset="1150">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/role/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.0" vertical-offset="102" max-vertical-offset="950">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-38.17647" vertical-offset="52" max-vertical-offset="1575">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/inc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.4117646" vertical-offset="0" max-vertical-offset="300">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.176471" vertical-offset="577" max-vertical-offset="1425">
+          <caret line="41" column="63" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/res.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4117647" vertical-offset="252" max-vertical-offset="1100">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/update.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.823529" vertical-offset="0" max-vertical-offset="2000">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="882">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/res/inc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.4117646" vertical-offset="0" max-vertical-offset="300">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/filter/MyAccessControlFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="675">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/filter/MyPathMathingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="625">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/controller/ResourceController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1250">
@@ -1929,11 +1740,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/controller/RoleController.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5586592" vertical-offset="0" max-vertical-offset="1900">
-          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="5872" max-vertical-offset="8000">
+          <caret line="297" column="43" selection-start-line="297" selection-start-column="43" selection-end-line="297" selection-end-column="43" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestShiro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1497" max-vertical-offset="2050">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestResourceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="137" max-vertical-offset="1650">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/leo/shiro/service/IRoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="1200">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestRoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1016" max-vertical-offset="2025">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/leo/shiro/service/TestUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4575045" vertical-offset="1272" max-vertical-offset="2100">
+          <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2067#2068#0" expanded="true" />
+            <element signature="e#2128#2129#0" expanded="true" />
+            <element signature="e#2171#2172#0" expanded="true" />
+            <element signature="e#2237#2238#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
