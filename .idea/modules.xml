@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/shiro-base/shiro-base.iml" filepath="$PROJECT_DIR$/shiro-base/shiro-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/shiro-project.iml" filepath="$PROJECT_DIR$/shiro-project.iml" />
     </modules>
   </component>
