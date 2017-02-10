@@ -14,23 +14,22 @@
 	<table width="800" cellspacing="0" cellPadding="0" id="listTable" border="1">
 		<thead>
 		<tr>
-			<td>资源表示</td>
-			<td>名称</td>
-			<td>URL</td>
-			<td>权限字符串</td>
+			<td>角色标识</td>
+			<td>角色名称</td>
+			<td>角色sn</td>
 			<td>操作</td>
 		</tr>
 		</thead>
 		<tbody>
-		<c:forEach items="${reses }" var="res">
+		<c:forEach items="${roles }" var="role">
 			<tr>
-				<td>${res.id }</td>
-				<td>${res.name}</td>
-				<td>${res.url }</td>
-				<td>${res.permission }&nbsp;</td>
+				<td>${role.id }</td>
+				<td>${role.name}</td>
+				<td>${role.sn }&nbsp;</td>
 				<td>
-					<a href="update/${res.id }" class="list_op">更新</a>
+					<a href="update/${role.id }" class="list_op">更新</a>
 				&nbsp;
+					<a href="listRes/${role.id }" class="list_op">设置资源</a>
 				</td>
 			</tr>
 		</c:forEach>

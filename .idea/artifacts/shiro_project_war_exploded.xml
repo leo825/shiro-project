@@ -14,10 +14,12 @@
           <element id="library" level="project" name="Maven: org.apache.shiro:shiro-core:1.2.4" />
           <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.8.3" />
           <element id="library" level="project" name="Maven: org.apache.shiro:shiro-web:1.2.4" />
-          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-spring:1.2.4" />
-          <element id="library" level="project" name="Maven: net.sf.ehcache:ehcache:2.10.1" />
           <element id="library" level="project" name="Maven: org.apache.shiro:shiro-ehcache:1.2.4" />
           <element id="library" level="project" name="Maven: net.sf.ehcache:ehcache-core:2.5.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-quartz:1.2.4" />
+          <element id="library" level="project" name="Maven: org.opensymphony.quartz:quartz:1.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-spring:1.2.4" />
+          <element id="library" level="project" name="Maven: net.sf.ehcache:ehcache:2.10.1" />
           <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.13" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.30" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.2.2.RELEASE" />
@@ -55,6 +57,7 @@
           <element id="library" level="project" name="Maven: javax.validation:validation-api:1.0.0.GA" />
           <element id="library" level="project" name="Maven: com.kenai.nbpwr:javax-inject:1.0-201002241208" />
           <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjrt:1.7.4" />
           <element id="library" level="project" name="Maven: cglib:cglib-nodep:3.0" />
           <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
           <element id="library" level="project" name="Maven: jsptags:pager-taglib:2.0" />

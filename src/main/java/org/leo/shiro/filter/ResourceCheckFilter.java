@@ -1,12 +1,12 @@
 package org.leo.shiro.filter;
 
+import org.apache.shiro.subject.Subject;
+import org.apache.shiro.web.filter.AccessControlFilter;
+
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-
-import org.apache.shiro.subject.Subject;
-import org.apache.shiro.web.filter.AccessControlFilter;
 
 public class ResourceCheckFilter extends AccessControlFilter {
 	
@@ -34,7 +34,7 @@ public class ResourceCheckFilter extends AccessControlFilter {
 			ServletResponse response) throws Exception {
 		HttpServletResponse hsp = (HttpServletResponse)response;
 		HttpServletRequest hReq = (HttpServletRequest)request;
-		hsp.sendRedirect(hReq.getContextPath()+"/"+this.errorUrl);
+		hsp.sendRedirect(hReq.getContextPath()+this.errorUrl);
 		return false;
 	}
 

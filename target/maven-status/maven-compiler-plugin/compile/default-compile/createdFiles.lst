@@ -3,7 +3,6 @@ org\leo\shiro\service\UserService.class
 org\leo\shiro\service\RoleService.class
 org\leo\shiro\servlet\LoginServlet.class
 org\leo\shiro\dao\IRoleDao.class
-org\leo\shiro\web\InitServlet.class
 org\leo\shiro\dao\ResourceDao.class
 org\leo\shiro\filter\MyAccessControlFilter.class
 org\leo\shiro\filter\MyPathMathingFilter.class
@@ -14,6 +13,7 @@ org\leo\shiro\service\IRoleService.class
 org\leo\shiro\model\User.class
 org\leo\shiro\service\IUserService.class
 org\leo\shiro\model\UserRole.class
+org\leo\shiro\cache\UserServiceAspect.class
 org\leo\shiro\permission\UrlPermission.class
 org\leo\shiro\model\RoleResource.class
 org\leo\shiro\controller\ResourceController.class
@@ -27,5 +27,6 @@ org\leo\shiro\model\Role.class
 org\leo\shiro\realm\UserRealm.class
 org\leo\shiro\controller\LoginController.class
 org\leo\shiro\dao\IUserDao.class
+org\leo\shiro\cache\BaseCacheService.class
 org\leo\shiro\dao\IResourceDao.class
 org\leo\shiro\kit\ShiroKit.class

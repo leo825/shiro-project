@@ -15,7 +15,7 @@
     <context:annotation-config/>
     <!-- 设定Spring 去哪些包中找Annotation -->
     <context:component-scan base-package="org.leo"/>
-
+    <!-- 打开Spring的aspectj注解支持 -->
     <aop:aspectj-autoproxy/>
 
     <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource"
