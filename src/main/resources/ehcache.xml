@@ -38,8 +38,8 @@
      <cache name="shiro-userCache"
            maxEntriesLocalHeap="2000"
            eternal="false"
-           timeToIdleSeconds="0"
-           timeToLiveSeconds="0"
+           timeToIdleSeconds="600"
+           timeToLiveSeconds="600"
            overflowToDisk="false"
            statistics="true">
     </cache>

@@ -7,6 +7,7 @@ org\leo\shiro\dao\ResourceDao.class
 org\leo\shiro\filter\MyAccessControlFilter.class
 org\leo\shiro\filter\MyPathMathingFilter.class
 org\leo\shiro\service\IResourceService.class
+org\leo\shiro\proxy\LogAspect.class
 org\leo\shiro\dao\RoleDao.class
 org\leo\shiro\dao\UserDao.class
 org\leo\shiro\service\IRoleService.class
@@ -30,3 +31,4 @@ org\leo\shiro\dao\IUserDao.class
 org\leo\shiro\cache\BaseCacheService.class
 org\leo\shiro\dao\IResourceDao.class
 org\leo\shiro\kit\ShiroKit.class
+org\leo\shiro\proxy\LogProxy.class

@@ -21,32 +21,47 @@ public class UserServiceAspect extends BaseCacheService {
     public void userServicePointcut() {
     }
 
-    @Pointcut("execution(* add(..))||execution(* update(..))||execution(* login(..))")
+    @Pointcut("execution(* add(..)) || execution(* update(..)) || execution(* login(..))")
     public void userPutPointcut() {
-        System.out.println("=================路过==================");
     }
 
-    @Pointcut("execution(* load(..))||execution(* loadByUsername(..))")
+    @Pointcut("execution(* load(..)) || execution(* loadByUsername(..))")
     public void userReadPointcut() {
+        System.out.println("=======================load===========================");
     }
 
     @Pointcut(value = "(execution(* delete(*))) && args(arg)", argNames = "arg")
     public void userEvictPointcut(Object arg) {
-        System.out.println("=========" + arg + "========");
     }
 
-    @After(value = "userServicePointcut()&&userEvictPointcut(arg)", argNames = "arg")
+    /**
+     * 删除一个缓存
+     * */
+    @After(value = "userServicePointcut() && userEvictPointcut(arg)", argNames = "arg")
     public void userEvictAdvice(Object arg) {
         super.evict(idPrefix + arg);
     }
 
 
-    @AfterReturning(pointcut = "userServicePointcut()&&userPutPointcut()", returning = "rel")
+    /**
+     * 增加、修改、登录一个缓存
+     * */
+    @AfterReturning(pointcut = "userServicePointcut() && userPutPointcut()", returning = "rel")
     public void userPutAdvice(Object rel) {
         put((User) rel);
     }
 
-    @Around(value = "userServicePointcut()&&userReadPointcut()")
+
+    /**
+     * 加载一个缓存，第二次加载这个用户的时候就会从缓存中取，提高效率
+     * */
+    @AfterReturning(pointcut = "userServicePointcut() && userReadPointcut()", returning = "rel")
+    public void userReadAdvice(Object rel) {
+        put((User) rel);
+    }
+
+
+    @Around(value = "userServicePointcut() && userReadPointcut()")
     public Object userReadPointCut(ProceedingJoinPoint pjp) throws Throwable {
         String methodName = pjp.getSignature().getName();
         Object arg = pjp.getArgs().length > 0 ? pjp.getArgs()[0] : null;
@@ -65,11 +80,15 @@ public class UserServiceAspect extends BaseCacheService {
             String idKey = idPrefix + (Integer) super.get(key);
             user = (User) super.get(idKey);
         }
-        System.out.println("====user=====" + user + "====user====");
+
+        System.out.println(methodName+"============="+isId+"============"+key+"============="+user);
         if (user != null) return user;
         return pjp.proceed();
     }
 
+    /**
+     * 如果key值相同，旧者将会被覆盖
+     * */
     private void put(User rel) {
         super.put(idPrefix + rel.getId(), rel);
         super.put(usernamePrefix + rel.getUsername(), rel.getId());

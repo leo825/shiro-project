@@ -4,19 +4,9 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
-    <!-- 配置ehCache工厂 -->
-    <bean id="ehCacheManager" class="org.springframework.cache.ehcache.EhCacheManagerFactoryBean">
-        <property name="configLocation" value="classpath:ehcache.xml"/>
-        <property name="shared" value="true"/>
-    </bean>
 
     <!-- 配置shiro的cacheManager -->
     <bean id="shiroCacheManager" class="org.apache.shiro.cache.ehcache.EhCacheManager">
-        <property name="cacheManager" ref="ehCacheManager"/>
-    </bean>
-    
-    <!-- 配置user的cacheManager -->
-    <bean id="myCacheManager" class="org.springframework.cache.ehcache.EhCacheCacheManager">
         <property name="cacheManager" ref="ehCacheManager"/>
     </bean>
 

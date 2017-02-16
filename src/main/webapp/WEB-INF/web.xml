@@ -25,8 +25,8 @@
     <context-param>
         <param-name>contextConfigLocation</param-name>
         <param-value>
-            classpath*:beans.xml
-            classpath*:shiro-beans.xml
+            classpath:beans.xml
+            classpath:shiro-beans.xml
         </param-value>
     </context-param>
     <filter>
